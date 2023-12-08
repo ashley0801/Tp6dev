@@ -9,4 +9,4 @@ COPY target/TP6Devops-1.0-SNAPSHOT.jar /app
 EXPOSE 8080
 
 # Spécifier la commande de démarrage de l'application
-CMD ["java", "-jar", "mTP6Devops-1.0-SNAPSHOT.jar"]
+CMD ["java", "-jar", "TP6Devops-1.0-SNAPSHOT.jar"]
